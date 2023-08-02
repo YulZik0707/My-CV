@@ -6557,7 +6557,7 @@ button.bg-dark:focus {
 }
 
 .rounded-circle {
-  border-radius: 70% !important;
+  border-radius: 50% !important;
 }
 
 .rounded-pill {
@@ -9989,3 +9989,7 @@ h6,
   list-style-type: none;
 }
 
+div.d {
+  
+  text-indent: 100px;
+} 
