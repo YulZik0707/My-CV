@@ -9989,7 +9989,8 @@ h6,
   list-style-type: none;
 }
 
-div.d {
-  
-  text-indent: 100px;
+.div.d {
+    letter-spacing: 5px;
+	
+
 } 
